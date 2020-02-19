@@ -1,4 +1,4 @@
-#.Net Solution for hash code More Pizza
+# .Net Solution for hash code More Pizza
 > [Google Practice Round Hash Code 2020](https://hashcodejudge.withgoogle.com/)
 
 | Problem | Slices | Max Slices |
