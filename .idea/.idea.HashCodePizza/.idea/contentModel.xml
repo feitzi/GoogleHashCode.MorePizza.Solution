@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\sources\HashCodePizza" t="IncludeFlat">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
+      <e p="HashCodePizza.sln" t="IncludeFlat" />
+      <e p="HashCodePizza1" t="IncludeRecursive">
+        <e p="a_example.in" t="Include" />
+        <e p="b_small.in" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="c_medium.in" t="Include" />
+        <e p="d_quite_big.in" t="Include" />
+        <e p="e_also_big.in" t="Include" />
+        <e p="HashCodePizza1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="HashCodePizza1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\mathi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mathi\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HashCodePizza.1740725775.00" t="ExcludeRecursive" />
+  </component>
+</project>
